@@ -130,5 +130,4 @@ dist
 .pnp.*
 
 # Temporary files
-tmp/*
-!tmp/.keep
+db/app.db
